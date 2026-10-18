@@ -85,7 +85,7 @@
             }
         },
         "gems": {
-            "enabled": false,
+            "enabled": true,
             "interval": [
                 15,
                 20
@@ -98,7 +98,7 @@
                 "epic": true,
                 "fabled": false,
                 "legendary": false,
-                "mythical": false,
+                "mythical": true,
                 "rare": true,
                 "uncommon": true
             },
